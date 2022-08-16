@@ -8,7 +8,7 @@
 </p>
 
 <b>Технологии: </b>
-<span>HTML, CSS, JS</span>
+<span>HTML, CSS, Flexbox</span>
 
 <h2>Запуск</h2>
 <p>Для запуска приложения достаточно открыть index.html в любом доступном браузере.</p>
